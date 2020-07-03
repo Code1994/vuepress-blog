@@ -1,7 +1,7 @@
 module.exports = [
   // 内部链接 以docs为根目录
   { 
-    text: '前端', 
+    text: '前端基础', 
     items: [
       {
         text: 'HTML5',
@@ -15,20 +15,50 @@ module.exports = [
         text: 'JavaScript',
         link: '/FE/JavaScript/'
       },
-      {
-        text: 'TCP/IP',
-        link: '/FE/TCP/'
-      },
-      {
-        text: '跨平台',
-        link: '/FE/cross'
-      },
-      {
-        text: '工程化',
-        link: '/FE/Engineer/'
-      }
     ] 
   }, 
+  {
+    text: 'TCP/IP',
+    link: '/TCP/',
+    items: [
+      {
+        text: 'HTTP',
+        link: '/TCP/HTTP/'
+      }
+    ]
+  },
+  {
+    text: '跨平台',
+    link: '/Cross/',
+    items: [
+      {
+        text: 'Mobile',
+        link: '/Cross/Mobile/'
+      }
+    ]
+  },
+  {
+    text: '工程化',
+    link: '/Engineer/',
+    items: [
+      {
+        text: 'Babel',
+        link: '/Engineer/Babel/'
+      },
+      {
+        text: 'PostCSS',
+        link: '/Engineer/PostCSS/'
+      },
+      {
+        text: 'Webpack',
+        link: '/Engineer/Webpack/'
+      },
+      {
+        text: 'Git',
+        link: '/Engineer/Git/'
+      }
+    ]
+  },
   { 
     text: '后端', 
     link: '/BE/',
