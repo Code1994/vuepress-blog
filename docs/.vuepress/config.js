@@ -18,6 +18,8 @@ module.exports = {
     // 顶部导航栏
     nav,
     // 侧边栏
-    sidebar
+    sidebar,
+    // 启用页面滚动
+    smoothScroll: true
   }
 };

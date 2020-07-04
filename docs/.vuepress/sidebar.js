@@ -4,6 +4,7 @@ module.exports = {
   '/FE/HTML5/': [
     '/FE/HTML5/',
     '/FE/HTML5/1.semantic.md',
+    '/FE/HTML5/5.graphic.md',
   ],
   '/FE/CSS3/': [
   ]
