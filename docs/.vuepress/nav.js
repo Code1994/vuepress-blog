@@ -98,6 +98,20 @@ module.exports = [
     ]
   },
   {
+    text: '工具',
+    link: '/tool/',
+    items: [
+      {
+        text: 'VuePress',
+        link: '/tool/VuePress/'
+      },
+      {
+        text: 'Charles',
+        link: '/tool/Charles/'
+      }
+    ]
+  },
+  {
     text: 'GitHub',
     link: 'https://github.com/Code1994'
   }
