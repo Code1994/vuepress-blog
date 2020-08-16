@@ -12,6 +12,10 @@ module.exports = {
   // 部署
   '/deploy/Nginx/': [
     '/deploy/Nginx/',
-    '/deploy/Nginx/1.install.md'
+    '/deploy/Nginx/1.install.md',
+    '/deploy/Nginx/2.introduce.md',
+    '/deploy/Nginx/3.separation.md',
+    '/deploy/Nginx/4.reverseProxy.md',
+    '/deploy/Nginx/5.loadBalance.md',
   ]
 }
