@@ -9,6 +9,7 @@ module.exports = {
   ],
   '/FE/CSS3/': [
   ],
+
   // 部署
   '/deploy/Nginx/': [
     '/deploy/Nginx/',
@@ -17,5 +18,12 @@ module.exports = {
     '/deploy/Nginx/3.separation.md',
     '/deploy/Nginx/4.reverseProxy.md',
     '/deploy/Nginx/5.loadBalance.md',
+  ],
+
+  // 工具
+  '/tool/Charles/': [
+    '/tool/Charles/',
+    '/tool/Charles/1.PC.md',
+    '/tool/Charles/2.mobile.md',
   ]
 }
