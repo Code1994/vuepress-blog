@@ -7,7 +7,7 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
   ],
-  // base: '/web_accumulate/', // 这是部署到github相关的配置 下面会讲
+  base: '/blog/', // 这是部署到github相关的配置 下面会讲。 静态资源配置的时候直接用绝对路径。如果不是根目录'/'访问的话，需要设置前缀。
   markdown: {
     lineNumbers: true // 代码块显示行号
   },
