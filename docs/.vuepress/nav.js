@@ -85,15 +85,15 @@ module.exports = [
   },
   {
     text: '部署',
-    link: '/deploy/',
+    link: '/Deploy/',
     items: [
       {
         text: 'Nginx',
-        link: '/deploy/Nginx/'
+        link: '/Deploy/Nginx/'
       },
       {
         text: 'Docker',
-        link: '/deploy/Docker/'
+        link: '/Deploy/Docker/'
       }
     ]
   },
