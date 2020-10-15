@@ -16,6 +16,11 @@ module.exports = {
     '/Engineer/Webpack/2.entry.md',
     '/Engineer/Webpack/3.output.md',
     '/Engineer/Webpack/4.resolve.md',
+    '/Engineer/Webpack/5.module.md',
+    '/Engineer/Webpack/6.plugins.md',
+    '/Engineer/Webpack/7.devServer.md',
+    '/Engineer/Webpack/8.environment.md',
+    '/Engineer/Webpack/9.optimization.md'
   ],
 
   // 部署
