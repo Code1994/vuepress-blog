@@ -4,58 +4,58 @@ module.exports = [
     text: '前端基础', 
     items: [
       {
-        text: 'HTML5',
-        link: '/FE/HTML5/'
+        text: 'html5',
+        link: '/FE/html5/'
       },
       {
-        text: 'CSS3',
-        link: '/FE/CSS3/'
+        text: 'css3',
+        link: '/FE/css3/'
       },
       {
-        text: 'JavaScript',
-        link: '/FE/JavaScript/'
+        text: 'javascript',
+        link: '/FE/javascript/'
       },
     ] 
   }, 
   {
     text: 'TCP/IP',
-    link: '/TCP/',
+    link: '/tcp/',
     items: [
       {
-        text: 'HTTP',
-        link: '/TCP/HTTP/'
+        text: 'http',
+        link: '/tcp/http/'
       }
     ]
   },
   {
     text: '跨平台',
-    link: '/Cross/',
+    link: '/cross/',
     items: [
       {
-        text: 'Mobile',
-        link: '/Cross/Mobile/'
+        text: 'mobile',
+        link: '/cross/mobile/'
       }
     ]
   },
   {
     text: '工程化',
-    link: '/Engineer/',
+    link: '/engineer/',
     items: [
       {
-        text: 'Babel',
-        link: '/Engineer/Babel/'
+        text: 'babel',
+        link: '/engineer/babel/'
       },
       {
-        text: 'PostCSS',
-        link: '/Engineer/PostCSS/'
+        text: 'postcss',
+        link: '/engineer/postcss/'
       },
       {
-        text: 'Webpack',
-        link: '/Engineer/Webpack/1.start.md'
+        text: 'webpack',
+        link: '/engineer/webpack/1.start.md'
       },
       {
-        text: 'Git',
-        link: '/Engineer/Git/'
+        text: 'git',
+        link: '/engineer/git/'
       }
     ]
   },
@@ -64,8 +64,8 @@ module.exports = [
     link: '/BE/',
     items: [
       {
-        text: 'Node',
-        link: '/BE/Node/'
+        text: 'node',
+        link: '/BE/node/'
       }
     ]
   },
@@ -74,26 +74,26 @@ module.exports = [
     link: '/DB/',
     items: [
       {
-        text: 'MySQL',
-        link: '/DB/MySQL/'
+        text: 'mysql',
+        link: '/DB/mysql/'
       },
       {
-        text: 'MongoDB',
-        link: '/DB/MongoDB/'
+        text: 'mongodb',
+        link: '/DB/mongodb/'
       }
     ]
   },
   {
     text: '部署',
-    link: '/Deploy/',
+    link: '/deploy/',
     items: [
       {
-        text: 'Nginx',
-        link: '/Deploy/Nginx/'
+        text: 'nginx',
+        link: '/deploy/nginx/'
       },
       {
-        text: 'Docker',
-        link: '/Deploy/Docker/'
+        text: 'docker',
+        link: '/deploy/docker/'
       }
     ]
   },
@@ -102,12 +102,12 @@ module.exports = [
     link: '/tool/',
     items: [
       {
-        text: 'VuePress',
-        link: '/tool/VuePress/'
+        text: 'vuepress',
+        link: '/tool/vuepress/'
       },
       {
-        text: 'Charles',
-        link: '/tool/Charles/'
+        text: 'charles',
+        link: '/tool/charles/'
       }
     ]
   },

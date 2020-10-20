@@ -2,41 +2,41 @@
 // 对象形式 侧边栏分为多个 每个侧边栏只会匹配当前满足的路由
 module.exports = {
   // 前端基础
-  '/FE/HTML5/': [
-    '/FE/HTML5/',
-    '/FE/HTML5/1.semantic.md',
-    '/FE/HTML5/5.graphic.md',
+  '/FE/html5/': [
+    '/FE/html5/',
+    '/FE/html5/1.semantic.md',
+    '/FE/html5/5.graphic.md',
   ],
   '/FE/CSS3/': [
   ],
 
   // 工程化
-  '/Engineer/Webpack/': [
-    '/Engineer/Webpack/1.start.md',
-    '/Engineer/Webpack/2.entry.md',
-    '/Engineer/Webpack/3.output.md',
-    '/Engineer/Webpack/4.resolve.md',
-    '/Engineer/Webpack/5.module.md',
-    '/Engineer/Webpack/6.plugins.md',
-    '/Engineer/Webpack/7.devServer.md',
-    '/Engineer/Webpack/8.environment.md',
-    '/Engineer/Webpack/9.optimization.md'
+  '/engineer/webpack/': [
+    '/engineer/webpack/1.start.md',
+    '/engineer/webpack/2.entry.md',
+    '/engineer/webpack/3.output.md',
+    '/engineer/webpack/4.resolve.md',
+    '/engineer/webpack/5.module.md',
+    '/engineer/webpack/6.plugins.md',
+    '/engineer/webpack/7.devServer.md',
+    '/engineer/webpack/8.environment.md',
+    '/engineer/webpack/9.optimization.md'
   ],
 
   // 部署
-  '/deploy/Nginx/': [
-    '/deploy/Nginx/',
-    '/deploy/Nginx/1.install.md',
-    '/deploy/Nginx/2.introduce.md',
-    '/deploy/Nginx/3.separation.md',
-    '/deploy/Nginx/4.reverseProxy.md',
-    '/deploy/Nginx/5.loadBalance.md',
+  '/deploy/nginx/': [
+    '/deploy/nginx/',
+    '/deploy/nginx/1.install.md',
+    '/deploy/nginx/2.introduce.md',
+    '/deploy/nginx/3.separation.md',
+    '/deploy/nginx/4.reverseProxy.md',
+    '/deploy/nginx/5.loadBalance.md',
   ],
 
   // 工具
-  '/tool/Charles/': [
-    '/tool/Charles/',
-    '/tool/Charles/1.PC.md',
-    '/tool/Charles/2.mobile.md',
+  '/tool/charles/': [
+    '/tool/charles/',
+    '/tool/charles/1.PC.md',
+    '/tool/charles/2.mobile.md',
   ]
 }
