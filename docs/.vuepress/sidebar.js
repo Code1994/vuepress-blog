@@ -10,6 +10,12 @@ module.exports = {
   '/FE/CSS3/': [
   ],
 
+  // 跨平台
+  '/cross/h5/': [],
+  '/cross/weChat-public/': [
+    '/cross/weChat-public/'
+  ],
+
   // 工程化
   '/engineer/webpack/': [
     '/engineer/webpack/1.start.md',

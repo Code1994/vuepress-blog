@@ -32,8 +32,12 @@ module.exports = [
     link: '/cross/',
     items: [
       {
-        text: 'mobile',
-        link: '/cross/mobile/'
+        text: 'H5',
+        link: '/cross/h5/'
+      },
+      {
+        text: '微信公众号',
+        link: '/cross/weChat-public/'
       }
     ]
   },
