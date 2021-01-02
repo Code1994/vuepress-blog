@@ -47,7 +47,7 @@ module.exports = [
     items: [
       {
         text: 'babel',
-        link: '/engineer/babel/'
+        link: '/engineer/babel/1.start.md'
       },
       {
         text: 'postcss',

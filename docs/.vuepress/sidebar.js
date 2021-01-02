@@ -17,6 +17,14 @@ module.exports = {
   ],
 
   // 工程化
+  '/engineer/babel/': [
+    '/engineer/babel/1.start.md',
+    '/engineer/babel/2.cli.md',
+    // '/engineer/babel/3.config-files.md',
+    // '/engineer/babel/4.plugins.md',
+    // '/engineer/babel/5.presets.md',
+    // '/engineer/babel/6.polyfill.md',
+  ],
   '/engineer/webpack/': [
     '/engineer/webpack/1.start.md',
     '/engineer/webpack/2.entry.md',
