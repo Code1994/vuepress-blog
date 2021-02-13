@@ -20,10 +20,12 @@ module.exports = {
   '/engineer/babel/': [
     '/engineer/babel/1.start.md',
     '/engineer/babel/2.cli.md',
-    // '/engineer/babel/3.config-files.md',
-    // '/engineer/babel/4.plugins.md',
-    // '/engineer/babel/5.presets.md',
-    // '/engineer/babel/6.polyfill.md',
+    '/engineer/babel/3.config-files.md',
+    '/engineer/babel/4.plugins.md',
+    '/engineer/babel/5.presets.md',
+    '/engineer/babel/6.polyfill.md',
+    '/engineer/babel/7.transform-runtime.md',
+    '/engineer/babel/8.总结.md'
   ],
   '/engineer/webpack/': [
     '/engineer/webpack/1.start.md',
