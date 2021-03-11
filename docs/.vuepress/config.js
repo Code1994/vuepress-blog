@@ -1,5 +1,6 @@
 const nav = require('./nav')
 const sidebar = require('./sidebar')
+
 module.exports = {
   title: 'JsGoShu’s Blog',
   description: '个人技术博客',
