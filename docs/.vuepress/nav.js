@@ -98,6 +98,10 @@ module.exports = [
       {
         text: 'docker',
         link: '/deploy/docker/'
+      },
+      {
+        text: 'CI/CD',
+        link: '/deploy/CI-CD/'
       }
     ]
   },

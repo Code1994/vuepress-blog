@@ -10,6 +10,13 @@ module.exports = {
   '/FE/CSS3/': [
   ],
 
+  '/FE/javascript/': [
+    '/FE/javascript/',
+    '/FE/javascript/BOM/1.start.md',
+    '/FE/javascript/DOM/1.start.md',
+    '/FE/javascript/ECMAScript/1.start.md',
+  ],
+
   // 跨平台
   '/cross/h5/': [],
   '/cross/weChat-public/': [
@@ -47,6 +54,9 @@ module.exports = {
     '/deploy/nginx/3.separation.md',
     '/deploy/nginx/4.reverseProxy.md',
     '/deploy/nginx/5.loadBalance.md',
+  ],
+  '/deploy/CI-CD/': [
+    '/deploy/CI-CD/1.start.md'
   ],
 
   // 工具
