@@ -13,7 +13,11 @@ module.exports = [
       },
       {
         text: 'javascript',
-        link: '/FE/javascript/'
+        items: [
+          { text: 'BOM', link: '/FE/javascript/BOM/1.start.md' },
+          { text: 'DOM', link: '/FE/javascript/DOM/1.start.md' },
+          { text: 'ECMAScript', link: '/FE/javascript/ECMAScript/1.start.md' }
+        ]
       },
     ] 
   }, 
