@@ -1,8 +1,8 @@
 ---
-title: JavaScript介绍
+title: JavaScript
 ---
 
-## JavaScript介绍
+## 介绍
 `JavaScript` 分为 `DOM` `BOM` 以及 `ECMAScript`。
 
 其中，`DOM` 意为 **文档对象模型**，即 `Document Object Model`。

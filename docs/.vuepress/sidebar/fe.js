@@ -11,6 +11,7 @@ module.exports = {
     '/FE/javascript/',
     '/FE/javascript/BOM/1.start.md',
     '/FE/javascript/DOM/1.start.md',
+    '/FE/javascript/DOM/2.offset.md',
     '/FE/javascript/ECMAScript/1.start.md',
   ]
 }
