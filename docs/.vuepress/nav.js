@@ -4,15 +4,15 @@ module.exports = [
     text: '前端基础', 
     items: [
       {
-        text: 'html5',
+        text: 'HTML5',
         link: '/FE/html5/'
       },
       {
-        text: 'css3',
+        text: 'CSS3',
         link: '/FE/css3/'
       },
       {
-        text: 'javascript',
+        text: 'JavaScript',
         items: [
           { text: 'BOM', link: '/FE/javascript/BOM/1.start.md' },
           { text: 'DOM', link: '/FE/javascript/DOM/1.start.md' },
@@ -26,7 +26,7 @@ module.exports = [
     link: '/tcp/',
     items: [
       {
-        text: 'http',
+        text: 'HTTP',
         link: '/tcp/http/'
       }
     ]
@@ -50,20 +50,20 @@ module.exports = [
     link: '/engineer/',
     items: [
       {
-        text: 'babel',
+        text: 'Babel',
         link: '/engineer/babel/1.start.md'
       },
       {
-        text: 'postcss',
+        text: 'Postcss',
         link: '/engineer/postcss/'
       },
       {
-        text: 'webpack',
+        text: 'Webpack',
         link: '/engineer/webpack/1.start.md'
       },
       {
-        text: 'git',
-        link: '/engineer/git/'
+        text: 'Git',
+        link: '/engineer/git/1.start.md'
       }
     ]
   },
@@ -72,7 +72,7 @@ module.exports = [
     link: '/BE/',
     items: [
       {
-        text: 'node',
+        text: 'Node',
         link: '/BE/node/'
       }
     ]
@@ -82,11 +82,11 @@ module.exports = [
     link: '/DB/',
     items: [
       {
-        text: 'mysql',
+        text: 'Mysql',
         link: '/DB/mysql/'
       },
       {
-        text: 'mongodb',
+        text: 'Mongodb',
         link: '/DB/mongodb/'
       }
     ]
@@ -96,11 +96,11 @@ module.exports = [
     link: '/deploy/',
     items: [
       {
-        text: 'nginx',
+        text: 'Nginx',
         link: '/deploy/nginx/'
       },
       {
-        text: 'docker',
+        text: 'Docker',
         link: '/deploy/docker/'
       },
       {
@@ -114,11 +114,11 @@ module.exports = [
     link: '/tool/',
     items: [
       {
-        text: 'vuepress',
+        text: 'Vuepress',
         link: '/tool/vuepress/'
       },
       {
-        text: 'charles',
+        text: 'Charles',
         link: '/tool/charles/'
       }
     ]

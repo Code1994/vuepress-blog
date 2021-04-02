@@ -20,5 +20,13 @@ module.exports = {
     '/engineer/webpack/7.devServer.md',
     '/engineer/webpack/8.environment.md',
     '/engineer/webpack/9.optimization.md'
+  ],
+  '/engineer/git/': [
+    '/engineer/git/1.start.md',
+    '/engineer/git/2.workspace.md',
+    '/engineer/git/3.stage.md',
+    '/engineer/git/4.local.md',
+    '/engineer/git/5.remote.md',
+    '/engineer/git/6.instruct.md'
   ]
 }
