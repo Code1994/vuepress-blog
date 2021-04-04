@@ -41,7 +41,7 @@ module.exports = [
       },
       {
         text: '微信公众号',
-        link: '/cross/weChat-public/'
+        link: '/cross/weChat-public/1.authorization.md'
       }
     ]
   },
