@@ -13,6 +13,7 @@ module.exports = {
   '/FE/javascript/DOM/': [
     '/FE/javascript/DOM/1.start.md',
     '/FE/javascript/DOM/2.offset.md',
+    '/FE/javascript/DOM/3.scroll.md'
   ],
   '/FE/javascript/ECMAScript/': [
     '/FE/javascript/ECMAScript/1.start.md'
