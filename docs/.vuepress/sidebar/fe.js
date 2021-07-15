@@ -4,6 +4,7 @@ module.exports = {
     '/FE/html5/',
     '/FE/html5/1.semantic.md',
     '/FE/html5/5.graphic.md',
+    '/FE/html5/html-email.md',
   ],
   '/FE/CSS3/': [
   ],
